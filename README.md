@@ -48,6 +48,24 @@ Finally, sg2im network, used scene graphs as input instead of normal text and gr
 
 ![alt text](Images/eighth.png)
 
-# Implementations
+# References
 
-In this codelab, we implemented AttnGAN and sg2im networks.
+Goodfellow I, Pouget-Abadie J, Mirza M, Xu B, Warde-Farley D, Ozair S, Courville A, Bengio Y. Generative adversarial nets. In Advances in neural information processing systems 2014 (pp. 2672-2680). 
+
+Mirza M, Osindero S. Conditional generative adversarial networks. Manuscript: https://arxiv. org/abs/1709.02023. 2014;9:24. 
+
+Zhang H, Xu T, Li H, Zhang S, Wang X, Huang X, Metaxas DN. StackGAN: Text to photo-realistic image synthesis with stacked generative adversarial networks. In Proceedings of the IEEE International Conference on Computer Vision 2017 (pp. 5907-5915). 
+
+Zhang H, Xu T, Li H, Zhang S, Wang X, Huang X, Metaxas DN. StackGAN++: Realistic image synthesis with stacked generative adversarial networks. IEEE transactions on pattern analysis and machine intelligence. 2018 Jul 16;41(8):1947-62. 
+
+Xu T, Zhang P, Huang Q, Zhang H, Gan Z, Huang X, He X. AttnGAN: Fine-grained text to image generation with attentional generative adversarial networks. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2018 (pp. 1316-1324). 
+
+El-Nouby A, Sharma S, Schulz H, Hjelm D, Asri LE, Kahou SE, Bengio Y, Taylor GW. Tell, draw, and repeat: Generating and modifying images based on continual linguistic instruction. In Proceedings of the IEEE International Conference on Computer Vision 2019 (pp. 10304-10312). 
+
+Schuster S, Krishna R, Chang A, Fei-Fei L, Manning CD. Generating semantically precise scene graphs from textual descriptions for improved image retrieval. In Proceedings of the fourth workshop on vision and language 2015 Sep (pp. 70-80). 
+
+Johnson J, Gupta A, Fei-Fei L. Image generation from scene graphs. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2018 (pp. 1219-1228). 
+
+Welinder P., Branson S., Mita T., Wah C., Schroff F., Belongie S., Perona, P. “Caltech-UCSD Birds 200”. California Institute of Technology. CNS-TR-2010-001. 2010 
+
+R. Krishna, Y. Zhu, O. Groth, J. Johnson, K. Hata, J. Kravitz, S. Chen, Y. Kalantidis, L.-J. Li, D. A. Shamma, et al. Visual genome: Connecting language and vision using crowdsourced dense image annotations. IJCV, 2017 
